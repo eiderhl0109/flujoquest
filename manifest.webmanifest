@@ -1,0 +1,18 @@
+{
+  "id": "./",
+  "name": "FlujoQuest · Entornos de desarrollo",
+  "short_name": "FlujoQuest",
+  "description": "Aprende algoritmos con diagramas de flujo que se ejecutan paso a paso y repasa la teoría de Entornos de desarrollo.",
+  "lang": "es",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#0f2f52",
+  "theme_color": "#0f2f52",
+  "categories": ["education"],
+  "icons": [
+    { "src": "icon-192.png", "sizes": "192x192", "type": "image/png" },
+    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png" },
+    { "src": "icon-maskable-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}
